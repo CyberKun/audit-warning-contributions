@@ -66,7 +66,7 @@
 
 > [!TIP]
 > **Preprint, version 1.1:** [Did the Attack Really Work? Auditing, Re-running,
-> and Proving AI-Agent Security Findings with .sova](https://github.com/TRUSCOR/research/tree/main/preprints).
+> and Sealing AI-Agent Security Findings with .sova](https://github.com/TRUSCOR/research/tree/main/preprints).
 > It checks AgentDojo's attack verdicts against what agents actually did,
 > re-runs recorded attacks on current models, and tests when two runs are
 > comparable, under protocols published before the runs. Every run it reports
@@ -1031,7 +1031,7 @@ The principal research directions are:
 9. Provenance-separated capability closure against declared and runtime graph baselines.
 10. Evidence-firewalled adjudication against transcript-level judge injection.
 
-Research claims will require predeclared protocols, strong baselines, repeated trials, ground truth, uncertainty, ethics review, and reproducible artifacts. The first preprint built on SOVA OSS, with its frozen protocols, every result file, and its findings packaged as `.sova` files, is public in [sova-research](https://github.com/TRUSCOR/research).
+Research claims will require predeclared protocols, strong baselines, repeated trials, ground truth, uncertainty, ethics review, and reproducible artifacts. The first preprint built on SOVA OSS, with its frozen protocols, every result file, and its findings packaged as `.sova` files, is public in [TRUSCOR/research](https://github.com/TRUSCOR/research).
 
 The Topic 01 evidence controls are now public:
 
