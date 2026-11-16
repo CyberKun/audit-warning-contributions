@@ -1135,7 +1135,7 @@ Read [the complete open/private decision](https://github.com/TRUSCOR/SOVA-OSS/bl
 
 ## Licence, attribution, and citation
 
-SOVA OSS was created by Gautam R. Patil, who started this repository on 28 July 2026, and is developed by TRUSCOR Private Limited. The original v1 prototype is preserved at [Gautam-R-Patil/SOVA-OSS](https://github.com/Gautam-R-Patil/SOVA-OSS); papers built on SOVA are released at [TRUSCOR/research](https://github.com/TRUSCOR/research).
+SOVA OSS was created by Gautam R Patil, who started this repository on 28 July 2026, and is developed by TRUSCOR Private Limited. The original v1 prototype is preserved at [Gautam-R-Patil/SOVA-OSS](https://github.com/Gautam-R-Patil/SOVA-OSS); papers built on SOVA are released at [TRUSCOR/research](https://github.com/TRUSCOR/research).
 
 SOVA OSS is licensed under the [Apache License 2.0](https://github.com/TRUSCOR/SOVA-OSS/tree/main/LICENSE). Developers, researchers, individuals, enterprises, and commercial users may use, modify, distribute, and build on the public repository subject to that licence.
 

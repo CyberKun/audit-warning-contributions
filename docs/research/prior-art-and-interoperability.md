@@ -2,7 +2,7 @@
 
 - **Matrix version:** 1.0
 - **Snapshot date:** 2026-08-04
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Next full recheck:** 2026-08-29
 
 This is a decision matrix, not a claim that the listed field is exhaustive. It

@@ -60,7 +60,7 @@ You may use SOVA-OSS in the title or text of papers, books, articles, courses, t
 Please:
 
 - use the citation metadata in `CITATION.cff`;
-- identify SOVA-OSS as a TRUSCOR project led by Gautam R. Patil;
+- identify SOVA-OSS as a TRUSCOR project led by Gautam R Patil;
 - link the official repository;
 - state that SOVA-OSS is a trademark of TRUSCOR;
 - avoid implying that TRUSCOR reviewed or endorsed the publication.
@@ -82,7 +82,7 @@ You may modify and distribute the code under Apache-2.0, but a materially modifi
 Acceptable:
 
 > **Nightwatch** — a fork of SOVA-OSS<br>
-> Based on SOVA-OSS, originally developed by Gautam R. Patil and TRUSCOR.<br>
+> Based on SOVA-OSS, originally developed by Gautam R Patil and TRUSCOR.<br>
 > Nightwatch is independent and is not endorsed by TRUSCOR.
 
 Not acceptable without written permission:

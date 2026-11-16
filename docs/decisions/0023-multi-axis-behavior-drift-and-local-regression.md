@@ -4,7 +4,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-08-03
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 19 tracing, diff, sentinel, CI, and integrity monitoring
 
 ## Decision

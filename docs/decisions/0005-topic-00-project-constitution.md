@@ -3,7 +3,7 @@
 - **Status:** Accepted
 - **Decision date:** 2026-07-29
 - **Roadmap scope:** Topics 00.1, 00.6, and Topic 00 exit
-- **Decision owner:** Gautam R. Patil
+- **Decision owner:** Gautam R Patil
 
 ## Purpose
 

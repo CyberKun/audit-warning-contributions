@@ -4,7 +4,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-08-04
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 23 probe, Arena, leaderboard, CTF, and replay media
 
 ## Decision

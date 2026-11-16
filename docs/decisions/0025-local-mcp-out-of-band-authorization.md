@@ -4,7 +4,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-08-04
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 21 local MCP, tool manifest, and offensive-action authorization
 
 ## Decision

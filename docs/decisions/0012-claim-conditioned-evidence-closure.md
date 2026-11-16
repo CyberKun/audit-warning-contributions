@@ -3,7 +3,7 @@
 # ADR 0012: Judge claims against explicit sensor-coverage obligations
 
 - **Date:** 2026-08-02
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 08 synthetic detonation and deterministic judging
 - **Status:** Accepted, experimental implementation
 

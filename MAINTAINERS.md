@@ -2,7 +2,7 @@
 
 ## Current maintainer
 
-- Gautam R. Patil — founder and maintainer — `gautam@truscor.org`
+- Gautam R Patil — founder and maintainer — `gautam@truscor.org`
 
 The current single-maintainer state is a bus-factor and incident-response risk,
 not a permanent governance goal.

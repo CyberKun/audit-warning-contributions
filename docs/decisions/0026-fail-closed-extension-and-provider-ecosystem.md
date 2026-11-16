@@ -4,7 +4,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-08-04
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 22 extensions, providers, targets, and benchmark interoperability
 
 ## Decision

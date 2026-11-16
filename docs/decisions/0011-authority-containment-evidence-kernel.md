@@ -3,7 +3,7 @@
 # ADR 0011: Bind authority, containment, effect budgets, and evidence per action
 
 - **Date:** 2026-08-02
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 07 executable safety boundary
 - **Status:** Accepted, experimental implementation
 

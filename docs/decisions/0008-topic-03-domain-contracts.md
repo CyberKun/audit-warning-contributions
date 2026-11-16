@@ -5,7 +5,7 @@
 - **Status:** Accepted
 - **Decision date:** 2026-07-29
 - **Roadmap scope:** Topics 03.1 through 03.5 and Topic 03 exit
-- **Decision owner:** Gautam R. Patil
+- **Decision owner:** Gautam R Patil
 - **Contract release:** `sova.domain` `0.1.0` (experimental)
 
 ## Context

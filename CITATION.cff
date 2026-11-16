@@ -4,7 +4,7 @@ title: "SOVA OSS: Security and Offensive Vulnerability Adversary"
 abstract: "A local-first open-source workbench for mapping, adversarially testing, tracing, reproducing, and analyzing AI-agent security behavior."
 authors:
   - family-names: "Patil"
-    given-names: "Gautam R."
+    given-names: "Gautam R"
   - name: "TRUSCOR"
 repository-code: "https://github.com/TRUSCOR/SOVA-OSS"
 url: "https://truscor.org"

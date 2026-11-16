@@ -4,7 +4,7 @@
 
 - **Status:** Accepted
 - **Date:** 2026-08-02
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Scope:** Topic 11 user workflow
 
 ## Decision

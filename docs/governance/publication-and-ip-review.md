@@ -2,7 +2,7 @@
 
 - **Policy version:** 1.0
 - **Decision date:** 2026-07-29
-- **Owner:** Gautam R. Patil
+- **Owner:** Gautam R Patil
 - **Legal status:** governance decision; not legal advice
 
 This policy controls public disclosure of research methods, inventions,

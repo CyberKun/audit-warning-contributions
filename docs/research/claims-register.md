@@ -2,7 +2,7 @@
 
 - **Register version:** 1.1
 - **Evidence snapshot:** 2026-08-20
-- **Register owner:** Gautam R. Patil
+- **Register owner:** Gautam R Patil
 - **Next competitive recheck:** 2026-08-29
 - **Legal review state:** qualified counsel not yet recorded
 
@@ -11,7 +11,7 @@ and value language used by SOVA OSS. It replaces undated claims in planning
 material. A product feature may remain in scope even when a novelty claim about
 that feature is retired.
 
-Every role in the **Owner** column names Gautam R. Patil as the interim
+Every role in the **Owner** column names Gautam R Patil as the interim
 accountable person acting in that role. “Founder plus counsel” means Gautam owns
 the claim and must obtain qualified counsel review; no counsel is presently
 assigned and the legal dependency is not treated as complete.
